@@ -579,11 +579,6 @@ Only accessible within the Docker bridge network.
 
 ---
 
-## 📄 License
-
-This project is for educational purposes as part of a Cognizant training program.
-
----
 
 <div align="center">
 
