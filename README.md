@@ -17,6 +17,22 @@
 
 ---
 
+## 🚀 RevPay System
+
+This project is split into two main repositories:
+
+### 🧠 Backend (Spring Boot Microservices)
+Handles APIs, authentication, business logic, and service communication.
+
+👉 [Go to Backend Repo](https://github.com/SanjayPrasad1/RevPay-V1-Microservices)
+
+---
+
+### 🎨 Frontend (UI Application)
+Handles user interface and client-side interactions.
+
+👉 [Go to Frontend Repo](https://github.com/SanjayPrasad1/RevPay_V1_Frontend/tree/main/revpay_frontend)
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
